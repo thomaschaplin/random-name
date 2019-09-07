@@ -21,7 +21,7 @@ const randomName = require('@thomaschaplin/random-name')
 
 console.log(randomName.randomFirstName()) // thomas
 console.log(randomName.randomLastName()) // chaplin
-console.log(randomName.randomFullName()) // thomaschaplin
+console.log(randomName.randomFullName()) // thomas chaplin
 ```
 
 or
