@@ -8,6 +8,8 @@
 
 Generate a random name from a list of over 277,000 names
 
+🎰 **[Try it in the browser](https://thomaschaplin.github.io/random-name/)**: pull the lever and spin up a name.
+
 ## Install
 
 `npm i @thomaschaplin/random-name`
